@@ -1,0 +1,67 @@
+ï»¿Marine Recreational Information Program Query Results
+
+Your Query Parameters:
+
+·Query: MRIP CATCH TIME SERIES
+
+·Year: 1981 - 2024
+
+·Summary:ANNUAL
+
+·Fishing Year: CALENDAR YEAR (JANUARY 1 - DECEMBER 31)
+
+·Geographic Area: NORTH AND MID-ATLANTIC
+
+·Species: CHUB MACKEREL                                                                                                                                                                                           
+
+·Fishing Mode: ALL MODES COMBINED
+
+·Fishing Area: ALL AREAS COMBINED
+
+·Type of Catch: ALL CATCH TYPES (TYPE A, B1, and B2)
+
+Information:
+
+·NUMBERS OF FISH
+
+MRIP does not support the use of estimates with a percent standard error above 50 and in those instances, recommends considering higher levels of aggregation (e.g., across states, geographic regions, or fishing modes).
+
+Results from 1981-2017 contain estimates resulting from the full application of both the Access Point Angler Intercept Survey (APAIS) and Fishing Effort Survey (FES) calibration.
+
+As of 2018 wave 1, all estimates of shore and private/rental boat fishing effort are now based on the FES.
+
+MRIP estimates for Louisiana are not available after 2013. State produced estimates are available through the MRIP National Query. For more information on state run surveys and estimates, please click <a href='http://www.wlf.louisiana.gov/lacreel' target='_blank'>here</a>.
+
+Estimates for Hawaii (prior to 2023) and Puerto Rico (prior to 2014) are based on Marine Recreational Fisheries Statistics Survey methodology and have not been calibrated.
+
+Beginning in 2023, estimates for Hawaii are produced using certified MRIP survey designs and weighted estimation methods.
+
+As part of the government's guidelines for statistical programs, the Office of Management and Budget requires federal agencies to establish their own criteria for statistical precision (Standard 4.1.5 in OMB Standards and Guidelines for Statistical Surveys)
+
+Upper and lower confidence limits are calculated using a standard 95% confidence interval. The lower 95% confidence interval is truncated at 0 to match graph output.
+
+<a href='https://www.fisheries.noaa.gov/recreational-fishing-data/recreational-fishing-data-glossary#percent-standard-error-(pse)' target='_blank'><b>PSE</b></a>, or percent standard error, is automatically included in all outputs. The higher an estimate's Percent Standard Error, or PSE, the larger the margin of error around the estimate, which means there is more uncertainty in the estimate.
+
+Estimates with a percent standard error exceeding 50 are not statistically different from zero using a standard 95% confidence interval.  Note this significance comparison is not suggesting these estimates all equal zero, but is rather intended to illustrate their high uncertainty.
+
+"Estimate Status","Year","Fishing Year","Common Name","Cumulative Through","PSE Observed Harvest (A)","Does Observed Harvest (A) Meet MRIP Standard","Is Observed Harvest (A) Significantly Different From 0","Observed Harvest (A)","Observed Harvest (A) Lower 95% Confidence Limit","Observed Harvest (A) Upper 95% Confidence Limit","PSE Reported Harvest (B1)","Does Reported Harvest (B1) Meet MRIP Standard","Is Reported Harvest (B1) Significantly Different From 0","Reported Harvest (B1)","Reported Harvest (B1) Lower 95% Confidence Limit","Reported Harvest (B1) Upper 95% Confidence Limit","PSE Released Alive (B2)","Does Released Alive (B2) Meet MRIP Standard","Is Released Alive (B2) Significantly Different From 0","Released Alive (B2)","Released Alive (B2) Lower 95% Confidence Limit","Released Alive (B2) Upper 95% Confidence Limit","** Contribution of Imputed Data to Observed Harvest Rate","** Contribution of Imputed Data to Reported Harvest Rate","** Contribution of Imputed Data to Released Alive Rate"
+"FINAL",1994,"CALENDAR YEAR (JAN 1 - DEC 31)","CHUB MACKEREL","ANNUAL",71.4,"NO","NO",3541,0,8496,".",,,".",".",".",".",,,".",".",".","0%","0%","0%"
+"FINAL",1995,"CALENDAR YEAR (JAN 1 - DEC 31)","CHUB MACKEREL","ANNUAL",99.3,"NO","NO",838,0,2469,".",,,".",".",".",".",,,".",".",".","0%","0%","0%"
+"FINAL",1996,"CALENDAR YEAR (JAN 1 - DEC 31)","CHUB MACKEREL","ANNUAL",".",,,".",".",".",100.4,"NO","NO",4176,0,12394,100.4,"NO","NO",8352,0,24788,"0%","0%","0%"
+"FINAL",1997,"CALENDAR YEAR (JAN 1 - DEC 31)","CHUB MACKEREL","ANNUAL",66.9,"NO","NO",2512,0,5806,".",,,".",".",".",84.8,"NO","NO",3478,0,9258,"0%","0%","0%"
+"FINAL",1998,"CALENDAR YEAR (JAN 1 - DEC 31)","CHUB MACKEREL","ANNUAL",89.6,"NO","NO",2194,0,6046,".",,,".",".",".",".",,,".",".",".","0%","0%","0%"
+"FINAL",2000,"CALENDAR YEAR (JAN 1 - DEC 31)","CHUB MACKEREL","ANNUAL",100.9,"NO","NO",4461,0,13284,".",,,".",".",".",".",,,".",".",".","0%","0%","0%"
+"FINAL",2001,"CALENDAR YEAR (JAN 1 - DEC 31)","CHUB MACKEREL","ANNUAL",".",,,".",".",".",".",,,".",".",".",100.6,"NO","NO",821,0,2439,"0%","0%","0%"
+"FINAL",2011,"CALENDAR YEAR (JAN 1 - DEC 31)","CHUB MACKEREL","ANNUAL",75.2,"NO","NO",1613,0,3989,".",,,".",".",".",".",,,".",".",".","0%","0%","0%"
+"FINAL",2012,"CALENDAR YEAR (JAN 1 - DEC 31)","CHUB MACKEREL","ANNUAL",".",,,".",".",".",".",,,".",".",".",94.9,"NO","NO",15569,0,44527,"0%","0%","0%"
+"FINAL",2014,"CALENDAR YEAR (JAN 1 - DEC 31)","CHUB MACKEREL","ANNUAL",87.8,"NO","NO",34246,0,93180,87.8,"NO","NO",15567,0,42355,87.8,"NO","NO",10378,0,28237,"0%","0%","0%"
+"FINAL",2016,"CALENDAR YEAR (JAN 1 - DEC 31)","CHUB MACKEREL","ANNUAL",44.5,"CAUTION","YES",1993,255,3731,103,"NO","NO",93,0,282,91.4,"NO","NO",489,0,1364,"0%","0%","0%"
+"FINAL",2017,"CALENDAR YEAR (JAN 1 - DEC 31)","CHUB MACKEREL","ANNUAL",57.1,"NO","NO",7627,0,16163,78,"NO","NO",5683,0,14372,58.9,"NO","NO",12751,0,27471,"0%","0%","0%"
+"FINAL",2018,"CALENDAR YEAR (JAN 1 - DEC 31)","CHUB MACKEREL","ANNUAL",31.8,"CAUTION","YES",101763,38336,165190,71.5,"NO","NO",3068,0,7367,72.3,"NO","NO",52641,0,127237,"0%","0%","0%"
+"FINAL",2019,"CALENDAR YEAR (JAN 1 - DEC 31)","CHUB MACKEREL","ANNUAL",30.7,"CAUTION","YES",36223,14427,58019,55.5,"NO","NO",13671,0,28543,35.5,"CAUTION","YES",89390,27192,151587,"0%","0%","0%"
+"FINAL",2020,"CALENDAR YEAR (JAN 1 - DEC 31)","CHUB MACKEREL","ANNUAL",25.3,"YES","YES",59342,29916,88769,53.6,"NO","NO",66418,0,136195,31.1,"CAUTION","YES",74161,28955,119366,"48%","11%","4%"
+"FINAL",2021,"CALENDAR YEAR (JAN 1 - DEC 31)","CHUB MACKEREL","ANNUAL",32.8,"CAUTION","YES",116911,41751,192070,34.3,"CAUTION","YES",20557,6737,34377,30.3,"CAUTION","YES",78166,31745,124587,"0%","0%","0%"
+"FINAL",2022,"CALENDAR YEAR (JAN 1 - DEC 31)","CHUB MACKEREL","ANNUAL",35.8,"CAUTION","YES",35663,10639,60686,36,"CAUTION","YES",8162,2403,13920,62.2,"NO","NO",209238,0,464325,"0%","0%","0%"
+"FINAL",2023,"CALENDAR YEAR (JAN 1 - DEC 31)","CHUB MACKEREL","ANNUAL",40.7,"CAUTION","YES",79347,16050,142644,36.7,"CAUTION","YES",16821,4721,28921,32.3,"CAUTION","YES",115095,42231,187960,"0%","0%","0%"
+"FINAL",2024,"CALENDAR YEAR (JAN 1 - DEC 31)","CHUB MACKEREL","ANNUAL",45,"CAUTION","YES",38448,4537,72359,40.8,"CAUTION","YES",39097,7832,70362,48.1,"CAUTION","YES",73954,4233,143675,"0%","0%","0%"
+

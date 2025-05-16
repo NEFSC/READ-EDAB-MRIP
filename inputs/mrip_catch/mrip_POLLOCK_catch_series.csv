@@ -1,0 +1,92 @@
+ï»¿Marine Recreational Information Program Query Results
+
+Your Query Parameters:
+
+·Query: MRIP CATCH TIME SERIES
+
+·Year: 1981 - 2024
+
+·Summary:ANNUAL
+
+·Fishing Year: CALENDAR YEAR (JANUARY 1 - DECEMBER 31)
+
+·Geographic Area: NORTH AND MID-ATLANTIC
+
+·Species: POLLOCK                                                                                                                                                                                                 
+
+·Fishing Mode: ALL MODES COMBINED
+
+·Fishing Area: ALL AREAS COMBINED
+
+·Type of Catch: ALL CATCH TYPES (TYPE A, B1, and B2)
+
+Information:
+
+·NUMBERS OF FISH
+
+MRIP does not support the use of estimates with a percent standard error above 50 and in those instances, recommends considering higher levels of aggregation (e.g., across states, geographic regions, or fishing modes).
+
+Results from 1981-2017 contain estimates resulting from the full application of both the Access Point Angler Intercept Survey (APAIS) and Fishing Effort Survey (FES) calibration.
+
+As of 2018 wave 1, all estimates of shore and private/rental boat fishing effort are now based on the FES.
+
+MRIP estimates for Louisiana are not available after 2013. State produced estimates are available through the MRIP National Query. For more information on state run surveys and estimates, please click <a href='http://www.wlf.louisiana.gov/lacreel' target='_blank'>here</a>.
+
+Estimates for Hawaii (prior to 2023) and Puerto Rico (prior to 2014) are based on Marine Recreational Fisheries Statistics Survey methodology and have not been calibrated.
+
+Beginning in 2023, estimates for Hawaii are produced using certified MRIP survey designs and weighted estimation methods.
+
+As part of the government's guidelines for statistical programs, the Office of Management and Budget requires federal agencies to establish their own criteria for statistical precision (Standard 4.1.5 in OMB Standards and Guidelines for Statistical Surveys)
+
+Upper and lower confidence limits are calculated using a standard 95% confidence interval. The lower 95% confidence interval is truncated at 0 to match graph output.
+
+<a href='https://www.fisheries.noaa.gov/recreational-fishing-data/recreational-fishing-data-glossary#percent-standard-error-(pse)' target='_blank'><b>PSE</b></a>, or percent standard error, is automatically included in all outputs. The higher an estimate's Percent Standard Error, or PSE, the larger the margin of error around the estimate, which means there is more uncertainty in the estimate.
+
+Estimates with a percent standard error exceeding 50 are not statistically different from zero using a standard 95% confidence interval.  Note this significance comparison is not suggesting these estimates all equal zero, but is rather intended to illustrate their high uncertainty.
+
+"Estimate Status","Year","Fishing Year","Common Name","Cumulative Through","PSE Observed Harvest (A)","Does Observed Harvest (A) Meet MRIP Standard","Is Observed Harvest (A) Significantly Different From 0","Observed Harvest (A)","Observed Harvest (A) Lower 95% Confidence Limit","Observed Harvest (A) Upper 95% Confidence Limit","PSE Reported Harvest (B1)","Does Reported Harvest (B1) Meet MRIP Standard","Is Reported Harvest (B1) Significantly Different From 0","Reported Harvest (B1)","Reported Harvest (B1) Lower 95% Confidence Limit","Reported Harvest (B1) Upper 95% Confidence Limit","PSE Released Alive (B2)","Does Released Alive (B2) Meet MRIP Standard","Is Released Alive (B2) Significantly Different From 0","Released Alive (B2)","Released Alive (B2) Lower 95% Confidence Limit","Released Alive (B2) Upper 95% Confidence Limit","** Contribution of Imputed Data to Observed Harvest Rate","** Contribution of Imputed Data to Reported Harvest Rate","** Contribution of Imputed Data to Released Alive Rate"
+"FINAL",1981,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",28.9,"YES","YES",3016579,1307868,4725289,23.1,"YES","YES",858922,470036,1247807,45.2,"CAUTION","YES",4361256,497532,8224980,"0%","0%","0%"
+"FINAL",1982,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",29.6,"YES","YES",1079804,453345,1706264,25.6,"YES","YES",570708,284350,857067,27.3,"YES","YES",1505021,699714,2310328,"0%","0%","0%"
+"FINAL",1983,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",29.2,"YES","YES",174531,74643,274418,44,"CAUTION","YES",438517,60340,816694,25.6,"YES","YES",691672,344619,1038726,"0%","0%","0%"
+"FINAL",1984,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",30.4,"CAUTION","YES",308947,124864,493029,49.9,"CAUTION","YES",985534,21642,1949425,35.2,"CAUTION","YES",391624,121435,661814,"0%","0%","0%"
+"FINAL",1985,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",42.2,"CAUTION","YES",570573,98641,1042505,51.3,"NO","NO",1715912,0,3441227,42.6,"CAUTION","YES",335875,55433,616317,"0%","0%","0%"
+"FINAL",1986,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",45.9,"CAUTION","YES",548197,55017,1041377,26.2,"YES","YES",281665,137024,426306,26.6,"YES","YES",363118,173803,552434,"0%","0%","0%"
+"FINAL",1987,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",31.8,"CAUTION","YES",373632,140755,606510,33.1,"CAUTION","YES",304909,107096,502722,27.8,"YES","YES",535181,243572,826790,"0%","0%","0%"
+"FINAL",1988,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",31.1,"CAUTION","YES",553161,215976,890346,27.3,"YES","YES",336487,156440,516535,14.6,"YES","YES",1535446,1096062,1974829,"0%","0%","0%"
+"FINAL",1989,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",39.3,"CAUTION","YES",356632,81926,631338,52.2,"NO","NO",414334,0,838248,26.6,"YES","YES",413557,197945,629169,"0%","0%","0%"
+"FINAL",1990,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",38.8,"CAUTION","YES",91370,21885,160855,45.3,"CAUTION","YES",322190,36124,608256,25.5,"YES","YES",277175,138643,415708,"0%","0%","0%"
+"FINAL",1991,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",43.8,"CAUTION","YES",149882,21211,278552,32.8,"CAUTION","YES",59241,21156,97326,18.2,"YES","YES",370590,238393,502787,"0%","0%","0%"
+"FINAL",1992,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",34.3,"CAUTION","YES",69437,22756,116119,27.4,"YES","YES",137219,63527,210911,51.7,"NO","NO",848556,0,1708414,"0%","0%","0%"
+"FINAL",1993,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",38.2,"CAUTION","YES",242623,60966,424280,35.7,"CAUTION","YES",236869,71127,402610,52.3,"NO","NO",680010,0,1377075,"0%","0%","0%"
+"FINAL",1994,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",36.3,"CAUTION","YES",338044,97533,578556,31,"CAUTION","YES",372699,146247,599151,22.3,"YES","YES",549389,309262,789517,"0%","0%","0%"
+"FINAL",1995,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",54.3,"NO","NO",162106,0,334632,19.8,"YES","YES",119243,72967,165518,38.5,"CAUTION","YES",1097588,269348,1925828,"0%","0%","0%"
+"FINAL",1996,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",30.1,"CAUTION","YES",98766,40498,157035,24.7,"YES","YES",228309,117780,338838,23.2,"YES","YES",214882,117171,312594,"0%","0%","0%"
+"FINAL",1997,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",77.9,"NO","NO",247085,0,624345,30.9,"CAUTION","YES",127339,50217,204461,25.3,"YES","YES",233557,117741,349374,"0%","0%","0%"
+"FINAL",1998,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",34.6,"CAUTION","YES",67636,21768,113504,19.8,"YES","YES",253264,154977,351550,18.8,"YES","YES",446076,281706,610446,"0%","0%","0%"
+"FINAL",1999,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",37.4,"CAUTION","YES",116951,31221,202682,72.7,"NO","NO",863924,0,2094947,23.3,"YES","YES",827593,449648,1205539,"0%","0%","0%"
+"FINAL",2000,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",42.1,"CAUTION","YES",89903,15719,164087,18.4,"YES","YES",607373,388330,826417,23,"YES","YES",1129214,620165,1638264,"0%","0%","0%"
+"FINAL",2001,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",33,"CAUTION","YES",32642,11529,53755,18.6,"YES","YES",367371,233442,501299,17.1,"YES","YES",1056546,702434,1410658,"0%","0%","0%"
+"FINAL",2002,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",41.9,"CAUTION","YES",9924,1774,18075,20.4,"YES","YES",481711,289104,674318,21.1,"YES","YES",377453,221353,533552,"0%","0%","0%"
+"FINAL",2003,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",31.1,"CAUTION","YES",10573,4128,17017,24.7,"YES","YES",165819,85543,246095,39.5,"CAUTION","YES",348363,78660,618066,"0%","0%","0%"
+"FINAL",2004,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",31.4,"CAUTION","YES",47837,18396,77278,24.6,"YES","YES",384857,199295,570420,43.8,"CAUTION","YES",279160,39507,518814,"0%","0%","0%"
+"FINAL",2005,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",31.4,"CAUTION","YES",53798,20689,86908,26,"YES","YES",134930,66170,203691,32.7,"CAUTION","YES",97752,35101,160402,"0%","0%","0%"
+"FINAL",2006,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",47,"CAUTION","YES",100376,7910,192843,29.6,"YES","YES",142281,59735,224826,29.6,"YES","YES",169859,71314,268405,"0%","0%","0%"
+"FINAL",2007,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",33.3,"CAUTION","YES",64852,22525,107180,34.4,"CAUTION","YES",206429,67246,345611,46.9,"CAUTION","YES",105996,8560,203432,"0%","0%","0%"
+"FINAL",2008,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",42.8,"CAUTION","YES",257458,41482,473434,31.4,"CAUTION","YES",295481,113630,477332,32.3,"CAUTION","YES",871744,319860,1423627,"0%","0%","0%"
+"FINAL",2009,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",18.5,"YES","YES",60738,38715,82762,28.6,"YES","YES",233779,102732,364826,29.5,"YES","YES",298748,126012,471485,"0%","0%","0%"
+"FINAL",2010,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",25.9,"YES","YES",68895,33921,103870,26.4,"YES","YES",932052,449771,1414333,21.2,"YES","YES",779320,455497,1103143,"0%","0%","0%"
+"FINAL",2011,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",26.1,"YES","YES",186381,91036,281725,27.9,"YES","YES",815901,369734,1262068,26.1,"YES","YES",1005859,491302,1520417,"0%","0%","0%"
+"FINAL",2012,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",27.7,"YES","YES",155724,71178,240269,28.2,"YES","YES",331673,148351,514995,22.5,"YES","YES",1049317,586568,1512066,"0%","0%","0%"
+"FINAL",2013,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",24.7,"YES","YES",581392,299929,862855,28.3,"YES","YES",790441,351999,1228883,31.6,"CAUTION","YES",2177759,828942,3526576,"0%","0%","0%"
+"FINAL",2014,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",26.9,"YES","YES",417144,197209,637079,22.1,"YES","YES",532889,302063,763716,28.7,"YES","YES",2202973,963757,3442190,"0%","0%","0%"
+"FINAL",2015,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",33.2,"CAUTION","YES",177297,61926,292668,18.5,"YES","YES",353992,225635,482350,22.4,"YES","YES",2171976,1218392,3125560,"0%","0%","0%"
+"FINAL",2016,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",27.4,"YES","YES",90946,42104,139787,20.1,"YES","YES",454284,275314,633254,20.2,"YES","YES",1168961,706146,1631776,"0%","0%","0%"
+"FINAL",2017,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",23.4,"YES","YES",179127,96972,261282,19,"YES","YES",425779,267219,584339,22.5,"YES","YES",1376380,769396,1983363,"0%","0%","0%"
+"FINAL",2018,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",23,"YES","YES",74541,40938,108144,25.3,"YES","YES",313125,157853,468398,19.1,"YES","YES",818095,511833,1124357,"0%","0%","0%"
+"FINAL",2019,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",21.7,"YES","YES",145268,83483,207054,20.5,"YES","YES",116712,69817,163607,16.1,"YES","YES",500344,342455,658232,"0%","0%","0%"
+"FINAL",2020,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",49.4,"CAUTION","YES",217731,6915,428548,34.8,"CAUTION","YES",271207,86222,456191,18.7,"YES","YES",627770,397680,857861,"13%","7%","11%"
+"FINAL",2021,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",25.6,"YES","YES",94293,46981,141606,23.8,"YES","YES",130739,69752,191727,18.5,"YES","YES",705065,449408,960721,"19%","1%","6%"
+"FINAL",2022,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",27.7,"YES","YES",107653,49206,166100,26.9,"YES","YES",427204,201965,652443,30.9,"CAUTION","YES",874052,344691,1403412,"19%","4%","3%"
+"FINAL",2023,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",22.9,"YES","YES",118956,65564,172349,20,"YES","YES",161212,98017,224407,19.5,"YES","YES",652536,403137,901936,"6%","7%","1%"
+"FINAL",2024,"CALENDAR YEAR (JAN 1 - DEC 31)","POLLOCK","ANNUAL",26.3,"YES","YES",29743,14411,45075,35.5,"CAUTION","YES",136105,41403,230807,18.7,"YES","YES",244782,155065,334500,"0%","0%","0%"
+

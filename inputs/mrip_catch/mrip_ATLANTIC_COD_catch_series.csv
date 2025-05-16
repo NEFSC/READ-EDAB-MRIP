@@ -1,0 +1,92 @@
+ï»¿Marine Recreational Information Program Query Results
+
+Your Query Parameters:
+
+·Query: MRIP CATCH TIME SERIES
+
+·Year: 1981 - 2024
+
+·Summary:ANNUAL
+
+·Fishing Year: CALENDAR YEAR (JANUARY 1 - DECEMBER 31)
+
+·Geographic Area: NORTH AND MID-ATLANTIC
+
+·Species: ATLANTIC COD                                                                                                                                                                                            
+
+·Fishing Mode: ALL MODES COMBINED
+
+·Fishing Area: ALL AREAS COMBINED
+
+·Type of Catch: ALL CATCH TYPES (TYPE A, B1, and B2)
+
+Information:
+
+·NUMBERS OF FISH
+
+MRIP does not support the use of estimates with a percent standard error above 50 and in those instances, recommends considering higher levels of aggregation (e.g., across states, geographic regions, or fishing modes).
+
+Results from 1981-2017 contain estimates resulting from the full application of both the Access Point Angler Intercept Survey (APAIS) and Fishing Effort Survey (FES) calibration.
+
+As of 2018 wave 1, all estimates of shore and private/rental boat fishing effort are now based on the FES.
+
+MRIP estimates for Louisiana are not available after 2013. State produced estimates are available through the MRIP National Query. For more information on state run surveys and estimates, please click <a href='http://www.wlf.louisiana.gov/lacreel' target='_blank'>here</a>.
+
+Estimates for Hawaii (prior to 2023) and Puerto Rico (prior to 2014) are based on Marine Recreational Fisheries Statistics Survey methodology and have not been calibrated.
+
+Beginning in 2023, estimates for Hawaii are produced using certified MRIP survey designs and weighted estimation methods.
+
+As part of the government's guidelines for statistical programs, the Office of Management and Budget requires federal agencies to establish their own criteria for statistical precision (Standard 4.1.5 in OMB Standards and Guidelines for Statistical Surveys)
+
+Upper and lower confidence limits are calculated using a standard 95% confidence interval. The lower 95% confidence interval is truncated at 0 to match graph output.
+
+<a href='https://www.fisheries.noaa.gov/recreational-fishing-data/recreational-fishing-data-glossary#percent-standard-error-(pse)' target='_blank'><b>PSE</b></a>, or percent standard error, is automatically included in all outputs. The higher an estimate's Percent Standard Error, or PSE, the larger the margin of error around the estimate, which means there is more uncertainty in the estimate.
+
+Estimates with a percent standard error exceeding 50 are not statistically different from zero using a standard 95% confidence interval.  Note this significance comparison is not suggesting these estimates all equal zero, but is rather intended to illustrate their high uncertainty.
+
+"Estimate Status","Year","Fishing Year","Common Name","Cumulative Through","PSE Observed Harvest (A)","Does Observed Harvest (A) Meet MRIP Standard","Is Observed Harvest (A) Significantly Different From 0","Observed Harvest (A)","Observed Harvest (A) Lower 95% Confidence Limit","Observed Harvest (A) Upper 95% Confidence Limit","PSE Reported Harvest (B1)","Does Reported Harvest (B1) Meet MRIP Standard","Is Reported Harvest (B1) Significantly Different From 0","Reported Harvest (B1)","Reported Harvest (B1) Lower 95% Confidence Limit","Reported Harvest (B1) Upper 95% Confidence Limit","PSE Released Alive (B2)","Does Released Alive (B2) Meet MRIP Standard","Is Released Alive (B2) Significantly Different From 0","Released Alive (B2)","Released Alive (B2) Lower 95% Confidence Limit","Released Alive (B2) Upper 95% Confidence Limit","** Contribution of Imputed Data to Observed Harvest Rate","** Contribution of Imputed Data to Reported Harvest Rate","** Contribution of Imputed Data to Released Alive Rate"
+"FINAL",1981,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",25.8,"YES","YES",2682215,1325873,4038558,17.5,"YES","YES",1078299,708442,1448155,50.9,"NO","NO",427557,1009,854106,"0%","0%","0%"
+"FINAL",1982,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",20.9,"YES","YES",745893,440346,1051441,20.9,"YES","YES",2139980,1263359,3016602,24,"YES","YES",110008,58260,161756,"0%","0%","0%"
+"FINAL",1983,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",27.6,"YES","YES",1130401,518899,1741903,27.1,"YES","YES",1382647,648240,2117054,23.9,"YES","YES",307257,163325,451188,"0%","0%","0%"
+"FINAL",1984,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",22.8,"YES","YES",1150571,636404,1664738,20.6,"YES","YES",1065824,635487,1496161,31.4,"CAUTION","YES",400507,154019,646996,"0%","0%","0%"
+"FINAL",1985,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",17,"YES","YES",1994139,1329692,2658586,24.4,"YES","YES",1424458,743226,2105692,33.4,"CAUTION","YES",219393,75770,363017,"0%","0%","0%"
+"FINAL",1986,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",30.8,"CAUTION","YES",322529,127825,517233,15.7,"YES","YES",1489531,1031173,1947890,22,"YES","YES",260962,148435,373488,"0%","0%","0%"
+"FINAL",1987,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",26,"YES","YES",847320,415526,1279115,26.4,"YES","YES",2481246,1197350,3765142,34.5,"CAUTION","YES",866596,280604,1452588,"0%","0%","0%"
+"FINAL",1988,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",30.6,"CAUTION","YES",1289094,515947,2062241,17.1,"YES","YES",2328356,1547984,3108727,31.7,"CAUTION","YES",720840,272968,1168713,"0%","0%","0%"
+"FINAL",1989,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",38.9,"CAUTION","YES",1191588,283074,2100103,20.7,"YES","YES",1100044,653734,1546354,20.5,"YES","YES",882198,527731,1236665,"0%","0%","0%"
+"FINAL",1990,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",19.4,"YES","YES",452084,280183,623984,18.9,"YES","YES",1832295,1153540,2511050,15.2,"YES","YES",780993,548319,1013666,"0%","0%","0%"
+"FINAL",1991,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",22.5,"YES","YES",486698,272064,701332,16,"YES","YES",1114357,764895,1463820,22.2,"YES","YES",530784,299829,761738,"0%","0%","0%"
+"FINAL",1992,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",22.4,"YES","YES",285980,160423,411536,22.8,"YES","YES",600845,332340,869351,21,"YES","YES",577214,339633,814795,"0%","0%","0%"
+"FINAL",1993,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",25.9,"YES","YES",496381,244398,748364,22.5,"YES","YES",1579147,882743,2275552,19.4,"YES","YES",1415326,877163,1953490,"0%","0%","0%"
+"FINAL",1994,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",17.7,"YES","YES",412493,269391,555595,18.2,"YES","YES",622097,400183,844011,13.4,"YES","YES",1207128,890088,1524168,"0%","0%","0%"
+"FINAL",1995,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",31.6,"CAUTION","YES",738826,281227,1196426,21.8,"YES","YES",777171,445101,1109241,20.7,"YES","YES",1346877,800422,1893332,"0%","0%","0%"
+"FINAL",1996,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",27.8,"YES","YES",190377,86644,294110,20.1,"YES","YES",332271,201369,463172,15,"YES","YES",537595,379542,695648,"0%","0%","0%"
+"FINAL",1997,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",53.9,"NO","NO",302156,0,621366,57.2,"NO","NO",475326,0,1008223,24.9,"YES","YES",600866,307619,894112,"0%","0%","0%"
+"FINAL",1998,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",21.9,"YES","YES",59580,34006,85155,32.2,"CAUTION","YES",371496,137037,605954,25.3,"YES","YES",720526,363232,1077821,"0%","0%","0%"
+"FINAL",1999,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",46.4,"CAUTION","YES",151886,13755,290018,30.4,"CAUTION","YES",342481,138417,546544,20.4,"YES","YES",653276,392070,914482,"0%","0%","0%"
+"FINAL",2000,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",22.3,"YES","YES",177503,99920,255086,28,"YES","YES",942696,425345,1460048,16.3,"YES","YES",1283940,873747,1694133,"0%","0%","0%"
+"FINAL",2001,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",32,"CAUTION","YES",255662,95311,416013,12.1,"YES","YES",805192,614233,996151,13.2,"YES","YES",1412202,1046837,1777567,"0%","0%","0%"
+"FINAL",2002,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",25.8,"YES","YES",159332,78761,239903,15.4,"YES","YES",574551,401129,747973,13.1,"YES","YES",1261721,937761,1585680,"0%","0%","0%"
+"FINAL",2003,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",24.1,"YES","YES",187183,98765,275601,14.2,"YES","YES",423442,305590,541295,13.6,"YES","YES",1074445,788041,1360849,"0%","0%","0%"
+"FINAL",2004,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",29.5,"YES","YES",215504,90900,340108,33.3,"CAUTION","YES",475518,165157,785880,28.8,"YES","YES",1352222,588920,2115525,"0%","0%","0%"
+"FINAL",2005,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",18.2,"YES","YES",101081,65023,137138,21.5,"YES","YES",754669,436652,1072687,17.8,"YES","YES",1972688,1284456,2660919,"0%","0%","0%"
+"FINAL",2006,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",19.6,"YES","YES",64738,39868,89607,20.7,"YES","YES",159078,94537,223619,12.9,"YES","YES",860997,643302,1078691,"0%","0%","0%"
+"FINAL",2007,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",16.3,"YES","YES",71179,48439,93919,25.4,"YES","YES",381742,191696,571789,18.7,"YES","YES",1501360,951082,2051638,"0%","0%","0%"
+"FINAL",2008,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",53.9,"NO","NO",339752,0,698681,25.3,"YES","YES",429388,216463,642313,18.1,"YES","YES",1509536,974013,2045059,"0%","0%","0%"
+"FINAL",2009,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",26.6,"YES","YES",202406,96880,307932,18.9,"YES","YES",576168,362732,789603,18.6,"YES","YES",1690710,1074345,2307075,"0%","0%","0%"
+"FINAL",2010,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",23.1,"YES","YES",127565,69809,185322,20,"YES","YES",916518,557243,1275792,21.9,"YES","YES",2454365,1400854,3507877,"0%","0%","0%"
+"FINAL",2011,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",17.2,"YES","YES",128843,85408,172279,14.8,"YES","YES",907109,643975,1170243,12.6,"YES","YES",1733725,1305564,2161886,"0%","0%","0%"
+"FINAL",2012,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",12.8,"YES","YES",88076,65979,110172,19.9,"YES","YES",604717,368853,840581,15.8,"YES","YES",991784,684648,1298920,"0%","0%","0%"
+"FINAL",2013,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",16,"YES","YES",236665,162447,310884,31.2,"CAUTION","YES",606716,235697,977734,28.9,"YES","YES",1800286,780532,2820040,"0%","0%","0%"
+"FINAL",2014,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",31.6,"CAUTION","YES",154586,58842,250330,21.5,"YES","YES",314430,181929,446931,19.2,"YES","YES",1183323,738015,1628632,"0%","0%","0%"
+"FINAL",2015,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",53.2,"NO","NO",125020,0,255381,44.7,"CAUTION","YES",68525,8489,128561,14.8,"YES","YES",1261071,895260,1626883,"0%","0%","0%"
+"FINAL",2016,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",26.6,"YES","YES",246779,118118,375440,38.6,"CAUTION","YES",185451,45146,325756,17.1,"YES","YES",2018295,1341844,2694747,"0%","0%","0%"
+"FINAL",2017,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",73.6,"NO","NO",179895,0,439404,17.8,"YES","YES",50070,32602,67538,19.9,"YES","YES",2256688,1376489,3136886,"0%","0%","0%"
+"FINAL",2018,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",33.4,"CAUTION","YES",19252,6649,31855,37.7,"CAUTION","YES",11338,2960,19715,25.8,"YES","YES",1186129,586327,1785931,"0%","0%","0%"
+"FINAL",2019,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",47.7,"CAUTION","YES",45454,2958,87950,37.9,"CAUTION","YES",35923,9238,62608,13.5,"YES","YES",581731,427805,735657,"0%","0%","0%"
+"FINAL",2020,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",33,"CAUTION","YES",61062,21567,100558,31.7,"CAUTION","YES",18546,7023,30069,13.8,"YES","YES",609349,444532,774165,"9%","12%","24%"
+"FINAL",2021,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",39.9,"CAUTION","YES",50749,11061,90437,39.6,"CAUTION","YES",111813,25028,198598,14.1,"YES","YES",601624,435359,767888,"0%","0%","5%"
+"FINAL",2022,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",32.9,"CAUTION","YES",55942,19869,92016,37.3,"CAUTION","YES",26017,6997,45038,22.4,"YES","YES",575601,322889,828313,"0%","2%","3%"
+"FINAL",2023,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",33.4,"CAUTION","YES",79238,27366,131110,54.4,"NO","NO",50916,0,105204,17.1,"YES","YES",634395,421771,847019,"0%","1%","1%"
+"FINAL",2024,"CALENDAR YEAR (JAN 1 - DEC 31)","ATLANTIC COD","ANNUAL",40.8,"CAUTION","YES",17392,3484,31299,36.2,"CAUTION","YES",14658,4258,25058,15.8,"YES","YES",276780,191067,362493,"0%","0%","0%"
+

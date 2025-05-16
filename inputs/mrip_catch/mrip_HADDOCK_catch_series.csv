@@ -1,0 +1,92 @@
+ï»¿Marine Recreational Information Program Query Results
+
+Your Query Parameters:
+
+·Query: MRIP CATCH TIME SERIES
+
+·Year: 1981 - 2024
+
+·Summary:ANNUAL
+
+·Fishing Year: CALENDAR YEAR (JANUARY 1 - DECEMBER 31)
+
+·Geographic Area: NORTH AND MID-ATLANTIC
+
+·Species: HADDOCK                                                                                                                                                                                                 
+
+·Fishing Mode: ALL MODES COMBINED
+
+·Fishing Area: ALL AREAS COMBINED
+
+·Type of Catch: ALL CATCH TYPES (TYPE A, B1, and B2)
+
+Information:
+
+·NUMBERS OF FISH
+
+MRIP does not support the use of estimates with a percent standard error above 50 and in those instances, recommends considering higher levels of aggregation (e.g., across states, geographic regions, or fishing modes).
+
+Results from 1981-2017 contain estimates resulting from the full application of both the Access Point Angler Intercept Survey (APAIS) and Fishing Effort Survey (FES) calibration.
+
+As of 2018 wave 1, all estimates of shore and private/rental boat fishing effort are now based on the FES.
+
+MRIP estimates for Louisiana are not available after 2013. State produced estimates are available through the MRIP National Query. For more information on state run surveys and estimates, please click <a href='http://www.wlf.louisiana.gov/lacreel' target='_blank'>here</a>.
+
+Estimates for Hawaii (prior to 2023) and Puerto Rico (prior to 2014) are based on Marine Recreational Fisheries Statistics Survey methodology and have not been calibrated.
+
+Beginning in 2023, estimates for Hawaii are produced using certified MRIP survey designs and weighted estimation methods.
+
+As part of the government's guidelines for statistical programs, the Office of Management and Budget requires federal agencies to establish their own criteria for statistical precision (Standard 4.1.5 in OMB Standards and Guidelines for Statistical Surveys)
+
+Upper and lower confidence limits are calculated using a standard 95% confidence interval. The lower 95% confidence interval is truncated at 0 to match graph output.
+
+<a href='https://www.fisheries.noaa.gov/recreational-fishing-data/recreational-fishing-data-glossary#percent-standard-error-(pse)' target='_blank'><b>PSE</b></a>, or percent standard error, is automatically included in all outputs. The higher an estimate's Percent Standard Error, or PSE, the larger the margin of error around the estimate, which means there is more uncertainty in the estimate.
+
+Estimates with a percent standard error exceeding 50 are not statistically different from zero using a standard 95% confidence interval.  Note this significance comparison is not suggesting these estimates all equal zero, but is rather intended to illustrate their high uncertainty.
+
+"Estimate Status","Year","Fishing Year","Common Name","Cumulative Through","PSE Observed Harvest (A)","Does Observed Harvest (A) Meet MRIP Standard","Is Observed Harvest (A) Significantly Different From 0","Observed Harvest (A)","Observed Harvest (A) Lower 95% Confidence Limit","Observed Harvest (A) Upper 95% Confidence Limit","PSE Reported Harvest (B1)","Does Reported Harvest (B1) Meet MRIP Standard","Is Reported Harvest (B1) Significantly Different From 0","Reported Harvest (B1)","Reported Harvest (B1) Lower 95% Confidence Limit","Reported Harvest (B1) Upper 95% Confidence Limit","PSE Released Alive (B2)","Does Released Alive (B2) Meet MRIP Standard","Is Released Alive (B2) Significantly Different From 0","Released Alive (B2)","Released Alive (B2) Lower 95% Confidence Limit","Released Alive (B2) Upper 95% Confidence Limit","** Contribution of Imputed Data to Observed Harvest Rate","** Contribution of Imputed Data to Reported Harvest Rate","** Contribution of Imputed Data to Released Alive Rate"
+"FINAL",1981,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",42.8,"CAUTION","YES",8753,1410,16095,35.6,"CAUTION","YES",19462,5882,33042,".",,,".",".",".","0%","0%","0%"
+"FINAL",1982,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",103.5,"NO","NO",1379,0,4177,44.5,"CAUTION","YES",9173,1172,17173,97.6,"NO","NO",220,0,641,"0%","0%","0%"
+"FINAL",1983,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",53.4,"NO","NO",2449,0,5011,55.7,"NO","NO",28613,0,59850,".",,,".",".",".","0%","0%","0%"
+"FINAL",1984,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",63.1,"NO","NO",1989,0,4450,56.2,"NO","NO",55732,0,117122,68.8,"NO","NO",1904,0,4473,"0%","0%","0%"
+"FINAL",1985,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",38.2,"CAUTION","YES",1778,447,3109,57.7,"NO","NO",10663,0,22723,100.5,"NO","NO",84,0,248,"0%","0%","0%"
+"FINAL",1986,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",".",,,".",".",".",31.9,"CAUTION","YES",40309,15106,65512,70.5,"NO","NO",361,0,859,"0%","0%","0%"
+"FINAL",1987,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",72.2,"NO","NO",4271,0,10315,43.6,"CAUTION","YES",10795,1570,20021,".",,,".",".",".","0%","0%","0%"
+"FINAL",1988,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",107.5,"NO","NO",236,0,734,69.4,"NO","NO",7978,0,18830,78.5,"NO","NO",1436,0,3645,"0%","0%","0%"
+"FINAL",1989,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",67.7,"NO","NO",621,0,1445,67.5,"NO","NO",11608,0,26965,52.6,"NO","NO",3120,0,6337,"0%","0%","0%"
+"FINAL",1990,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",100.3,"NO","NO",138,0,408,51.5,"NO","NO",348,0,700,100.8,"NO","NO",270,0,805,"0%","0%","0%"
+"FINAL",1991,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",".",,,".",".",".",94.1,"NO","NO",113,0,322,99.6,"NO","NO",150,0,442,"0%","0%","0%"
+"FINAL",1992,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",96.4,"NO","NO",240,0,694,".",,,".",".",".",".",,,".",".",".","0%","0%","0%"
+"FINAL",1993,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",".",,,".",".",".",84.1,"NO","NO",674,0,1785,".",,,".",".",".","0%","0%","0%"
+"FINAL",1994,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",98.1,"NO","NO",652,0,1906,82.6,"NO","NO",487,0,1277,63.5,"NO","NO",3333,0,7482,"0%","0%","0%"
+"FINAL",1995,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",81.3,"NO","NO",114351,0,296567,34.6,"CAUTION","YES",9462,3045,15879,76.5,"NO","NO",50908,0,127239,"0%","0%","0%"
+"FINAL",1996,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",53.5,"NO","NO",967,0,1981,47.8,"CAUTION","YES",2048,129,3966,40.1,"CAUTION","YES",6968,1491,12445,"0%","0%","0%"
+"FINAL",1997,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",53.5,"NO","NO",1263,0,2588,45.4,"CAUTION","YES",25775,2839,48710,44.1,"CAUTION","YES",38311,5197,71425,"0%","0%","0%"
+"FINAL",1998,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",44.6,"CAUTION","YES",4167,524,7809,44,"CAUTION","YES",18144,2497,33792,25.5,"YES","YES",8568,4286,12850,"0%","0%","0%"
+"FINAL",1999,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",50.3,"NO","NO",3754,53,7456,33,"CAUTION","YES",10588,3740,17437,25.3,"YES","YES",14984,7554,22414,"0%","0%","0%"
+"FINAL",2000,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",59.3,"NO","NO",27159,0,58726,29.6,"YES","YES",98990,41560,156420,24.7,"YES","YES",149514,77131,221896,"0%","0%","0%"
+"FINAL",2001,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",45.3,"CAUTION","YES",8456,948,15964,22.2,"YES","YES",81033,45774,116293,19.2,"YES","YES",87975,54868,121082,"0%","0%","0%"
+"FINAL",2002,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",46.3,"CAUTION","YES",9859,912,18806,27.8,"YES","YES",69846,31788,107904,25,"YES","YES",173530,88500,258559,"0%","0%","0%"
+"FINAL",2003,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",32.3,"CAUTION","YES",15969,5859,26078,19.8,"YES","YES",94495,57823,131166,19.1,"YES","YES",265822,166309,365335,"0%","0%","0%"
+"FINAL",2004,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",29.8,"YES","YES",85898,35727,136069,29.6,"YES","YES",162804,68352,257256,25.4,"YES","YES",108032,54249,161814,"0%","0%","0%"
+"FINAL",2005,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",21.8,"YES","YES",228771,131022,326521,28.4,"YES","YES",219971,97526,342415,29.5,"YES","YES",117376,49509,185242,"0%","0%","0%"
+"FINAL",2006,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",16.9,"YES","YES",140164,93736,186592,19.9,"YES","YES",119699,73011,166386,19,"YES","YES",167311,105004,229618,"0%","0%","0%"
+"FINAL",2007,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",17.4,"YES","YES",133169,87753,178585,32.1,"CAUTION","YES",597354,221523,973185,20.2,"YES","YES",191919,115935,267904,"0%","0%","0%"
+"FINAL",2008,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",21.5,"YES","YES",193580,112006,275155,31.9,"CAUTION","YES",362627,135898,589356,43.1,"CAUTION","YES",326323,50658,601988,"0%","0%","0%"
+"FINAL",2009,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",11.5,"YES","YES",109800,85051,134549,27.2,"YES","YES",389519,181859,597179,25.7,"YES","YES",143484,71208,215760,"0%","0%","0%"
+"FINAL",2010,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",20,"YES","YES",75593,45961,105226,34.3,"CAUTION","YES",321718,105434,538003,31.8,"CAUTION","YES",90536,34107,146965,"0%","0%","0%"
+"FINAL",2011,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",16.5,"YES","YES",46678,31583,61774,21.5,"YES","YES",195432,113077,277787,30,"YES","YES",73393,30238,116548,"0%","0%","0%"
+"FINAL",2012,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",14.2,"YES","YES",41965,30285,53645,19.8,"YES","YES",253503,155124,351882,22.5,"YES","YES",422567,236215,608918,"0%","0%","0%"
+"FINAL",2013,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",22,"YES","YES",51504,29295,73712,22.9,"YES","YES",256930,141610,372250,16.2,"YES","YES",1085718,740981,1430455,"0%","0%","0%"
+"FINAL",2014,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",15.9,"YES","YES",104545,71965,137126,14.1,"YES","YES",161313,116733,205894,13.2,"YES","YES",1461892,1083672,1840113,"0%","0%","0%"
+"FINAL",2015,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",12.9,"YES","YES",144600,108039,181161,18.7,"YES","YES",117905,74690,161119,26.3,"YES","YES",1396624,676692,2116556,"0%","0%","0%"
+"FINAL",2016,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",48,"CAUTION","YES",477135,28246,926024,22.8,"YES","YES",502971,278203,727739,26.9,"YES","YES",3205720,1515536,4895905,"0%","0%","0%"
+"FINAL",2017,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",21.1,"YES","YES",270617,158701,382534,13.2,"YES","YES",1420530,1053011,1788050,13.2,"YES","YES",2671143,1980065,3362222,"0%","0%","0%"
+"FINAL",2018,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",23.7,"YES","YES",396680,212415,580947,21,"YES","YES",468886,275892,661879,21,"YES","YES",1104404,649831,1558976,"0%","0%","0%"
+"FINAL",2019,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",19.7,"YES","YES",225910,138682,313139,13.2,"YES","YES",671494,497765,845223,15,"YES","YES",639828,451718,827937,"0%","0%","0%"
+"FINAL",2020,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",15,"YES","YES",288699,203822,373577,18.1,"YES","YES",726220,468586,983854,18.2,"YES","YES",873122,561662,1184582,"53%","25%","25%"
+"FINAL",2021,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",16.6,"YES","YES",210635,142103,279167,23.9,"YES","YES",587260,312164,862356,16.1,"YES","YES",493003,337431,648575,"21%","1%","9%"
+"FINAL",2022,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",45.2,"CAUTION","YES",360587,41136,680038,22.8,"YES","YES",293163,162155,424172,14.1,"YES","YES",265584,192187,338981,"5%","0%","8%"
+"FINAL",2023,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",15.8,"YES","YES",126032,87002,165061,27.3,"YES","YES",224670,104454,344886,18.3,"YES","YES",413466,265164,561767,"8%","0%","2%"
+"FINAL",2024,"CALENDAR YEAR (JAN 1 - DEC 31)","HADDOCK","ANNUAL",20.7,"YES","YES",158763,94350,223176,29.5,"YES","YES",410192,173019,647365,18.2,"YES","YES",843884,542854,1144914,"0%","0%","0%"
+

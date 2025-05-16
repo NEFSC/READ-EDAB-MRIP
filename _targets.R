@@ -15,6 +15,10 @@ library(targets)
 
 # Replace the target list below with your own:
 list(
+  #### species data for mapping
+  targets::tar_target(species,
+                      "Black sea bass"),
+
   #### read in data
   targets::tar_target(mrip_trips,
                       list.files(
