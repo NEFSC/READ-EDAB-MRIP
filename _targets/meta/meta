@@ -6,8 +6,9 @@ mrip_trips|stem|8f065c1199c47f6f|57925764fc69a51d|2c530c1562a7fbd1|1310018541|C:
 rec_trips|stem|6d0ea4887f3f702b|f35364a37605ea6a|3a7d1cced0a20ca6|937328784||t20224.6281736074s|s551b|551|rds|local|vector|||0.08||
 save_rec_landings|stem|4d420e734d24941e|c7a7cd884f3190d9|fa86c40a66189f8c|451110235||t20224.6281744093s|s44b|44|rds|local|vector|||0.03||
 save_rec_trips|stem|4d420e734d24941e|7c3aadce1259827d|0f5809b545c69975|-1923319520||t20224.6281745713s|s44b|44|rds|local|vector|||0||
-test_rec_trips|stem|1d4a33d55412ffa6|2a59fe3c7fc28a69|0f5809b545c69975|-1171237830||t20224.6988774189s|s2534b|2534|rds|local|vector|||0.17||
-test_total_rec_landings|stem|ed9d1ad25545cdfc|e6d2c71c7eec21aa|fa86c40a66189f8c|1083755241||t20224.6988749438s||2387|rds|local|vector|||0.25||No packages loaded with pkgload
-create_total_rec_landings|function|64efd3629d4640bb
-create_rec_trips|function|1be25c49c5458f1c
 total_rec_landings|stem|afbe451f058d88d7|6956d54753726669|73b16a3565714472|-179682998||t20224.6988701385s||539|rds|local|vector|||0||could not find function 'groupby_state'
+create_total_rec_landings|function|64efd3629d4640bb
+groupby_state|function|b70e98499eb225fa
+create_rec_trips|function|f38bf1160593b667
+test_total_rec_landings|stem|fb6b12cfa7d2148d|006eec510709f32a|2c530c1562a7fbd1|1083755241||t20224.8392330918s|s2287b|2287|rds|local|vector|||0.31||
+test_rec_trips|stem|1d4a33d55412ffa6|f2e64c318114f937|2c530c1562a7fbd1|-1171237830||t20224.6988774189s||2534|rds|local|vector|||0.21||Test failures
