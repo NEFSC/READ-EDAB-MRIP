@@ -5,13 +5,15 @@
 
 # Load packages required to define the pipeline:
 library(targets)
-# library(tarchetypes) # Load other packages as needed.
+library(tarchetypes) # Load other packages as needed.
 
 # remotes::install_github("NEFSC/READ-EDAB-NEesp2")
 
 # Run the R scripts in the R/ folder with your custom functions:
 # tar_source()
 # tar_source("other_functions.R") # Source other scripts as needed.
+source("R/create_rec_trips.R")
+source("R/create_total_rec_landings.R")
 
 # Replace the target list below with your own:
 list(
@@ -32,17 +34,40 @@ list(
   #### calculate time series
   targets::tar_target(
     rec_trips,
-    NEesp2::create_rec_trips(files = mrip_trips)
+    create_rec_trips(files = mrip_trips)
   ),
   targets::tar_target(
     total_rec_landings,
-    NEesp2::create_total_rec_landings(mrip_landing |>
+    create_total_rec_landings(mrip_landing |>
                                         read.csv(
                                           skip = 46, # of rows you want to ignore
                                           na.strings = "."
                                         ) |>
                                         janitor::clean_names(case = "all_caps"))
   ),
+
+  #### run tests
+  tar_target(
+    test_total_rec_landings,
+    {
+      testthat::with_mocked_bindings(
+        total_rec_landings = total_rec_landings,
+        testthat::test_local("tests/testthat", filter = "total_rec_landings")
+      )
+    }
+  ),
+  tar_target(
+    test_rec_trips,
+    {
+      testthat::with_mocked_bindings(
+        rec_trips = rec_trips,
+        testthat::test_local("tests/testthat", filter = "rec_trips")
+      )
+    }
+  ),
+
+
+
 
   #### save data
   targets::tar_target(
