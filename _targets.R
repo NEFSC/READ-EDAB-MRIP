@@ -19,6 +19,9 @@ list(
   targets::tar_target(species,
                       "Black sea bass"),
 
+  #### TODO: reformat this to work with function updates
+  #### TODO: add code to download recent year data
+
   #### read in data
   targets::tar_target(mrip_trips,
                       list.files(

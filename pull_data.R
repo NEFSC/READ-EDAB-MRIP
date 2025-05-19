@@ -1,5 +1,5 @@
 
-devtools::load_all("../READ-EDAB-NEesp2")
+devtools::load_all("../READ-EDAB-NEesp2") # or install from github
 
 species <- c(#"Atlantic cod",
               "Atlantic mackerel",
@@ -24,6 +24,8 @@ purrr::map(purrr::list_transpose(list(region = params$region,
                                    this_year = .x$year,
                                    this_region = .x$region,
                                    out_folder = here::here("inputs"))))
+
+#### cod ----
 
 # download broke on cod for reasons I don't understand
 params <- expand.grid(region = c("north atlantic", "mid-atlantic"),
