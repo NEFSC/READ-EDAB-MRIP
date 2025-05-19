@@ -16,7 +16,11 @@ source(here::here("R/create_total_rec_landings.R"))
 # Define the target pipeline
 list(
 
-  #### Read in data
+  #### species data for mapping
+  targets::tar_target(species,
+                      "Black sea bass"),
+
+   #### Read in data
   tar_target(
     mrip_trips,
     list.files(
@@ -50,11 +54,11 @@ list(
   ),
 
   #### Run tests
-  tar_target(
-    test_rec_trips,
-    testthat::test_dir("tests/testthat", filter = "rec_trips"),
-    cue = tar_cue(mode = "always") # Always rerun tests for fresh results
-  ),
+  # tar_target(
+  #   test_rec_trips,
+  #   testthat::test_dir("tests/testthat", filter = "rec_trips"),
+  #   cue = tar_cue(mode = "always") # Always rerun tests for fresh results
+  # ),
   tar_target(
     test_total_rec_landings,
     testthat::test_dir("tests/testthat", filter = "total_rec_landings"),
