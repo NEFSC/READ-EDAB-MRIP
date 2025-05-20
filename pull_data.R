@@ -14,8 +14,16 @@ species <- c(#"Atlantic cod",
 
 # set up trip download ----
 params <- expand.grid(region = c("north atlantic", "mid-atlantic"),
-                      year = 1981:2024,
-                      species = "Haddock")
+                      year = c(1981:1991, 2020:2024),
+                      species = "Winter flounder")
+
+# params <- expand.grid(region = c("mid-atlantic"),
+#   year = c(1981, 1982, 1984, 1985, 1990),
+#   species = "Chub mackerel")
+#
+# params <- expand.grid(region = c("north atlantic"),
+#   year = c(1986:1988, 1990),
+#   species = "Chub mackerel")
 
 purrr::map(purrr::list_transpose(list(region = params$region,
                                       year = params$year,
@@ -24,6 +32,11 @@ purrr::map(purrr::list_transpose(list(region = params$region,
                                    this_year = .x$year,
                                    this_region = .x$region,
                                    out_folder = here::here("inputs"))))
+
+NEesp2::save_trips(this_species = "Winter flounder",
+                   this_year = 1999,
+                   this_region = "north atlantic",
+                   out_folder = here::here("inputs"))
 
 #### cod ----
 
