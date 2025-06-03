@@ -22,17 +22,39 @@ list(
   #### TODO: reformat this to work with function updates
   #### TODO: add code to download recent year data
 
+
+
+
   #### read in data
   targets::tar_target(mrip_trips,
+                      # list.files(
+                      #   path = here::here("inputs/mrip_directed_trips"),
+                      #   pattern = glob2rx("mrip*.csv"),
+                      #   full.names = TRUE
+                      # ),
+                      purrr::map(list.dirs(path = here::here("inputs"),
+                                           recursive = FALSE),
+                                 ~list.files(.x,
+                                             pattern =  "[0-9].Rds",
+                                             full.names = TRUE,
+                                             recursive = TRUE,
+                                             include.dirs = TRUE)),
+                      format = "file"
+  ),
+  targets::tar_target(mrip_landing,
                       list.files(
-                        path = here::here("inputs/mrip_directed_trips"),
-                        pattern = glob2rx("mrip*.csv"),
+                        path = here::here("inputs"),
+                        pattern = glob2rx("catch_all_*.Rds"),
                         full.names = TRUE
                       ),
                       format = "file"
   ),
-  targets::tar_target(mrip_landing,
-                      here::here("inputs/mrip_BLACK_SEA_BASS_harvest_update040325.csv"),
+  targets::tar_target(mrip_catch,
+                      list.files(
+                        path = here::here("inputs"),
+                        pattern = glob2rx("catch_landings_*.Rds"),
+                        full.names = TRUE
+                      ),
                       format = "file"
   ),
 

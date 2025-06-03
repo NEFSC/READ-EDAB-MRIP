@@ -1,7 +1,7 @@
 
 devtools::load_all("../READ-EDAB-NEesp2") # or install from github
 
-species <- c(#"Atlantic cod",
+species <- c("Atlantic cod",
               "Atlantic mackerel",
               "Black sea bass",
               "Chub mackerel",
@@ -60,5 +60,14 @@ NEesp2::save_trips(this_species = "Atlantic cod",
 
 # save catch ----
 purrr::map(species,
-           ~NEesp2::save_catch(this_species = .x$species,
-                               out_folder = here::here("inputs")))
+           ~NEesp2::save_catch(this_species = .x,
+                               catch_type = "all",
+                               out_folder = here::here("inputs"),
+                               wait = FALSE))
+
+# save landings ----
+purrr::map(species,
+           ~NEesp2::save_catch(this_species = .x,
+                               catch_type = "landings",
+                               out_folder = here::here("inputs"),
+                               wait = FALSE))
